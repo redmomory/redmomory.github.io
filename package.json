@@ -17,6 +17,7 @@
   "author": "Ryan Fitzgerald",
   "license": "MIT",
   "devDependencies": {
+    "lodash": ">=4.17.19",
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
     "gulp": "^4.0.2",
